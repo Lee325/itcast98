@@ -11,6 +11,7 @@ public class Hello{
 System.out.println("今天天气好晴朗");
 
 		System.out.println("mybatis");
+System.out.println("mybatis");
 
 		
 
